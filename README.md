@@ -1,7 +1,10 @@
+<meta http-equiv="refresh" content="0; url='https://opprdev.github.io/repo-template-datasets/web/index.html'" />
+
 # Datasets Repository Template
 
 <img src="assets/banner_468x60.png" width="100%" />
 
+[![DOI](https://zenodo.org/badge/252470291.svg?style=flat-square)](https://zenodo.org/badge/latestdoi/252470291)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/opprDev/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/opprDev/repo-template-datasets?style=flat-square)](https://github.com/opprDev/repo-template-datasets/commits/master)
 [![HitCount](http://hits.dwyl.io/opprDev/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
@@ -10,14 +13,23 @@
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-## Citing Master Project
+Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we aim to provide a template repository for *datasets*. The repository was developed by a community of people under the [opprDev](https://dev.oppr.io/) Team from [oppr](https://oppr.io/). This template will be used in [BreastScreening](https://breastscreening.github.io/), [MIDA](https://mida-project.github.io/) and [MIMBCD-UI](https://mimbcd-ui.github.io/) projects.
+
+## Citing
 
 We kindly ask **scientific works and studies** that make use of the repository to cite it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the repository to warn us about this use.
 
 You can cite our work using the following BibTeX entry:
 
 ```
-
+@misc{https://doi.org/10.5281/zenodo.3738763,
+  doi = {10.5281/ZENODO.3738763},
+  url = {https://zenodo.org/record/3738763},
+  author = {Calisto,  Francisco Maria},
+  title = {opprDev/repo-template-datasets: v0.1.1-alpha},
+  publisher = {Zenodo},
+  year = {2020}
+}
 ```
 
 ## Table of contents
@@ -64,7 +76,7 @@ Optionally, the module/directory can be installed into the designated Python int
 Please, feel free to try out our demo. It is a script called `demo.py` at the src/demo directory. It can be used as follows:
 
 ```bash
-python demo.py
+python src/demo.py
 ```
 
 Just keep in mind this is just a demo, so it does nothing more than downloading data to an arbitrary destination directory if the directory does not exist or does not have any content. Also, we did our best to make the demo as user-friendly as possible, so, above everything else, have fun! 😁
