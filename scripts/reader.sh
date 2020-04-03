@@ -3,21 +3,18 @@
 # Author: Francisco Maria Calisto
 # ------------------------------------------
 cd dataset
-INPUT=cities.csv
+INPUT=overview.csv
 OLDIFS=$IFS
 IFS=','
-[ ! -f $INPUT ] && { echo "$INPUT file not found"; exit 130; }
-while read LatD LatM LatS NS LonD LonM LonS EW City State
+[ ! -f $INPUT ] && { echo "$INPUT file not found"; exit 100; }
+while read Age Contrast ContrastTag raw_input_path id tiff_name dicom_name
 do
-	echo "LatD : $LatD"
-	echo "LatM : $LatM"
-	echo "LatS : $LatS"
-	echo "NS : $NS"
-	echo "LonD : $LonD"
-	echo "LonM : $LonM"
-	echo "LonS : $LonS"
-	echo "EW : $EW"
-	echo "City : $City"
-	echo "State : $State"
+	echo "Age : $Age"
+	echo "Contrast : $Contrast"
+	echo "ContrastTag : $ContrastTag"
+	echo "raw_input_path : $raw_input_path"
+	echo "id : $id"
+	echo "tiff_name : $tiff_name"
+	echo "dicom_name : $dicom_name"
 done < $INPUT
 IFS=$OLDIFS
