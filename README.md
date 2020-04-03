@@ -66,7 +66,7 @@ At this point, the only way to install this repository is manual. Eventually, th
 Nonetheless, this kind of installation is as simple as cloning this repository. Virtually all Git and GitHub version control tools are capable of doing that. Through the console, we can use the command below, but other ways are also fine.
 
 ```bash
-git clone https://github.com/opprDev/repo-template-datasets.git
+git clone https://github.com/MIMBCD-UI/repo-template-datasets.git
 ```
 
 Optionally, the module/directory can be installed into the designated Python interpreter by moving it into the site-packages directory at the respective Python directory.
