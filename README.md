@@ -38,7 +38,7 @@ You can cite our work using the following BibTeX entry:
 * [Usage](#Usage)
 * [Roadmap](#Roadmap)
 * [Contribution](#Contribution)
-* [License & Copyright](#License)
+* [License & Copyright](#License--Copyright)
 * [Team](#Team)
 * [Acknowledgements](#Acknowledgements)
 
@@ -132,6 +132,8 @@ To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known
 ### License & Copyright
 
 Copyright &copy; 2020 [Instituto Superior Técnico](http://tecnico.ulisboa.pt/)
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 The [`repo-template-datasets`](https://github.com/MIMBCD-UI/repo-template-datasets) repository is distributed under the terms of [GNU AGPLv3](LICENSE) license and [CC-BY-SA-4.0](COPYING) copyright. Permissions of this license are conditioned on making available complete elements from this repository of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved.
 
