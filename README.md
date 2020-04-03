@@ -38,9 +38,9 @@ You can cite our work using the following BibTeX entry:
 * [Usage](#Usage)
 * [Roadmap](#Roadmap)
 * [Contribution](#Contribution)
+* [License & Copyright](#License)
 * [Team](#Team)
 * [Acknowledgements](#Acknowledgements)
-* [License](#License)
 
 ## Prerequisites
 
@@ -117,6 +117,14 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates)
 
+- [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
+
+- [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
+
+- [`dataset-uta7-time`](https://github.com/MIMBCD-UI/dataset-uta7-time)
+
+- [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates)
+
 ### Dataset Resources
 
 To publish our [datasets](https://www.kaggle.com/MIMBCD-UI) we used a well known platform called [Kaggle](https://www.kaggle.com). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI).
@@ -147,6 +155,10 @@ Our team brings everything together sharing ideas and the same purpose, developi
 * Jacinto C. Nascimento
 * Pedro Miraldo
 * Nuno Nunes
+
+#### Acknowledgements
+
+This work was partially supported by national funds through [FCT](http://fct.pt/) and [IST](http://tecnico.ulisboa.pt/) through the [UID/EEA/50009/2013](https://www.fct.pt/apoios/projectos/consulta/vglobal_projecto.phtml.en?idProjecto=147329&idElemConcurso=8999) project, [BL89/2017-IST-ID](http://ist-id.pt/en/) grant. We thank [Dr. Clara Aleluia](https://www.researchgate.net/profile/Clara_Aleluia) and her [radiology team](https://repositorio.hff.min-saude.pt/handle/10400.10/4?locale=en) of [HFF](https://hff.min-saude.pt/) for valuable insights and helping using the *Assistant* on their daily basis. From [IPO-Lisboa](http://www.ipolisboa.min-saude.pt/), we would like to thank the medical imaging teams of [Dr. José Carlos Marques](https://www.researchgate.net/profile/Jose_Marques42) and [Dr. José Venâncio](http://www.ipolisboa.min-saude.pt/servicosclinicos/radiologia/). From [IPO-Coimbra](https://ipocoimbra.com), we would like to thank the radiology department director and the all team of [Dr. Idílio Gomes](https://ipocoimbra.com/servico-de-imagiologia/). Also, we would like to provide our acknowledgments to Dr. Emília Vieira and Dr. Cátia Pedro from [Hospital Santa Maria](http://www.chln.min-saude.pt/). Furthermore, we want to thank all team from the radiology department of [HB](http://www.chbm.min-saude.pt/) for participation. Last but not least, a great thanks to [Dr. Cristina Ribeiro da Fonseca](http://imi.pt/pt/content/31-corpo-clnico/32-profissionais-imi?content=55), who among others is giving us crucial information for the [BreastScreening](https://github.com/BreastScreening) project.
 
 ### Supporting
 
