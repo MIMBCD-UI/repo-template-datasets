@@ -4,7 +4,6 @@
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
-[![DOI](https://zenodo.org/badge/252470291.svg?style=flat-square)](https://zenodo.org/badge/latestdoi/252470291)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/repo-template-datasets?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/commits/master)
 [![HitCount](http://hits.dwyl.io/MIMBCD-UI/repo-template-datasets.svg)](http://hits.dwyl.io/opprDev/repo-template-datasets)
@@ -16,6 +15,8 @@
 Several *datasets* are fostering innovation in higher-level functions for everyone, everywhere. By providing this repository, we hope to encourage the research community to focus on hard problems. In this repository, we aim to provide a template repository for *datasets*. The repository was developed by a community of people under the [opprDev](https://dev.oppr.io/) Team from [oppr](https://oppr.io/). This template will be used in [BreastScreening](https://breastscreening.github.io/), [MIDA](https://mida-project.github.io/) and [MIMBCD-UI](https://mimbcd-ui.github.io/) projects. This repository is complementary to the [`repo-template-datasets`](https://github.com/opprDev/repo-template-datasets) repository of [opprDev](https://github.com/opprDev) GitHub organization. The sampling [`overview.csv`](dataset/overview.csv) file on the [`dataset/`](dataset/) folder was extrated from the [CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images) *dataset*.
 
 ## Citing
+
+[![DOI](https://zenodo.org/badge/252470291.svg?style=flat-square)](https://zenodo.org/badge/latestdoi/252470291)
 
 We kindly ask **scientific works and studies** that make use of the repository to cite it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the repository to warn us about this use.
 
